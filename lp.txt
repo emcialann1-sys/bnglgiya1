@@ -53,7 +53,7 @@
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer="defer"></script>
     <meta name="theme-color" content="#88888" />
     <link rel="canonical" href="https://baldevlawcollege.org.in/" />
-    <link rel="amphtml" href="https://main-terus-tanpa-putus.pages.dev/" />
+    <link rel="amphtml" href="https://yayayayaya.pages.dev/" />
     <script type="application/ld+json">
         {
             "@context": "https://schema.org",
@@ -1269,11 +1269,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://main-terus-tanpa-putus.pages.dev/">
+                <a class="off-canvas-right__link" href="https://yayayayaya.pages.dev/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://main-terus-tanpa-putus.pages.dev/">
+                <a class="off-canvas-right__link" href="https://yayayayaya.pages.dev/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1894,8 +1894,8 @@
 
                                     <div class="item-preview__actions" bis_skin_checked="1">
                                         <div class="n-columns-2">
-                                            <a href="https://main-terus-tanpa-putus.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
-                                            <a href="https://main-terus-tanpa-putus.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                                            <a href="https://yayayayaya.pages.dev/" rel="nofollow noreferrer" class="login">LOGIN</a>
+                                            <a href="https://yayayayaya.pages.dev/" rel="nofollow noreferrer" class="register">DAFTAR</a>
                                         </div>
                                     </div>
                                 </div>
@@ -2608,11 +2608,11 @@ document.addEventListener('DOMContentLoaded', function() {
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://main-terus-tanpa-putus.pages.dev/">Terms</a>
+                                                    href="https://yayayayaya.pages.dev/">Terms</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://main-terus-tanpa-putus.pages.dev/">Licenses</a>
+                                                    href="https://yayayayaya.pages.dev/">Licenses</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
@@ -2640,7 +2640,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://main-terus-tanpa-putus.pages.dev/">Help Center</a>
+                                                    href="https://yayayayaya.pages.dev/">Help Center</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
@@ -2663,7 +2663,7 @@ document.addEventListener('DOMContentLoaded', function() {
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
-                                                    href="https://main-terus-tanpa-putus.pages.dev/">Forums</a>
+                                                    href="https://yayayayaya.pages.dev/">Forums</a>
                                             </li>
                                             <li class="global-footer-sublist__item h-p0">
                                                 <a class="global-footer__text-link"
